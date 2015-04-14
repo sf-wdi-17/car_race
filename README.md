@@ -17,3 +17,5 @@ race.winner
 race.loser
 # => <Car ...>
 ```
+
+A solution can be found in the solution branch of this repo.
